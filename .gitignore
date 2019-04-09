@@ -57,5 +57,11 @@ statistics/**
 ./package-lock.json
 
 # Mosquitto
+
+# old naming convention
 mosquitto.aclfile
 mqtt_passwords
+
+# new naming convention in /mnt/data/mosquitto
+thinx.pw
+thinx.acl
